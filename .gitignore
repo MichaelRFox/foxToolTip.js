@@ -38,6 +38,7 @@ jspm_packages
 
 # Sublime Text Files
 foxToolTip.sublime-workspace
+foxToolTip.sublime-project
 
 # JSdoc files
 out/
