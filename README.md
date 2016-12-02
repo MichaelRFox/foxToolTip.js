@@ -42,7 +42,7 @@ foxToolTip.js exposes two methods: create and remove.
 ### <a id ="foxToolTip.remove">foxToolTip.remove (elementId)</a> 
 * **elementId** (string) - the unique id of the target DOM element whose tooltip you want to remove.
 * **returns** - null
-* **description** - removes all of the event listeners and the associated [foxToolTip object](#The-foxToolTip-object) object from the stack.  If this is the only [foxToolTip object](#The-foxToolTip-object) on the stack, the .remove() method will remove all of the [foxToolTip object](#The-foxToolTip-object) css rules from the stylesheet and set the library back to its un-instantiated state.  Generally, this method is not required, since foxToolTip.js automatically detects the removal of target elements, and performs corresponsing tooltip removal automatically.
+* **description** - removes all of the event listeners and the associated [foxToolTip object](#The-foxToolTip-object) object from the stack.  If this is the only [foxToolTip object](#The-foxToolTip-object) on the stack, the .remove() method will remove all of the [foxToolTip object](#The-foxToolTip-object) css rules from the stylesheet and set the library back to its un-instantiated state.  Generally, this method is not required, since foxToolTip.js automatically detects the removal of target elements, and performs corresponding tooltip removal automatically.
 
 [:house: top](#top)
 
