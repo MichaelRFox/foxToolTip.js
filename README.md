@@ -1,3 +1,4 @@
+**This repo is no longer under active development.  See fxToolTip.js**
 # <a id="top">foxToolTip.js</a>
 
 ---
